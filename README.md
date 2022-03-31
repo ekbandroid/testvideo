@@ -1,0 +1,2 @@
+# testvideo
+smartmirror://launch
