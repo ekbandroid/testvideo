@@ -1,2 +1,2 @@
 # testvideo
-[a link](smartmirror://launch)
+{"gitdown": "gitinfo", "name": "url"} (smartmirror://launch)
