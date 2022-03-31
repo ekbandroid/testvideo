@@ -1,2 +1,2 @@
 # testvideo
-smartmirror://launch
+[a link](smartmirror://launch)
